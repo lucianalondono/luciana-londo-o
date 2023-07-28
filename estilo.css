@@ -18,7 +18,15 @@
     background-size: cover;
     
     }
+    .ftecno{
     
+        background-image: url("descarga.jfif");
+        
+        background-repeat: no-repeat;
+        background-size: cover;
+        
+        }
+        
     
     
     .img{
@@ -97,7 +105,7 @@
         
         margin-right:5px;
         
-        background-image: url("medellin.jpeg");
+        background-image: url("fofo.jfif");
         
         }
         
@@ -107,7 +115,7 @@
         
         text-align: justify;
         
-        color: azure;
+        color: rgb(4, 230, 230);
         
         font-size: 20px;
         
