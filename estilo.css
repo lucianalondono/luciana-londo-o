@@ -122,3 +122,23 @@
         
         
         }
+
+        .imgso3{
+        
+         
+        
+            background-repeat: no-repeat;
+            
+            float:left;
+            
+            height: 900px;
+            
+            width: 900px;
+            
+            margin-left: 5px;
+            
+            margin-right:5px;
+            
+            background-image: url("infografias.png");
+            
+            }
